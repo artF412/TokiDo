@@ -2,29 +2,29 @@
 
 A modern task management application built with React and Tailwind CSS.
 
-## Features
+# Features
 
 - User authentication (Login/Register)
 - Dark mode support
 - Task management
 - Responsive design
 
-## Tech Stack
+# Tech Stack
 
 - React
 - React Router
 - Tailwind CSS
 - Vite
 
-## Getting Started
+# Getting Started
 
-1. Clone the repository
+## 1. Clone the repository
 ```bash
 git clone https://github.com/artF412/TokiDo.git
 ```
 
 
-2. Install dependencies
+## 2. Install dependencies
 ```bash
 cd TokiDo
 npm install
@@ -47,7 +47,7 @@ npm install react-router-dom
 ```
 
 
-3. Start development server
+## 3. Start development server
 ```bash
 npm run dev
 ```
