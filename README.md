@@ -23,11 +23,29 @@ A modern task management application built with React and Tailwind CSS.
 git clone https://github.com/artF412/TokiDo.git
 ```
 
+
 2. Install dependencies
 ```bash
 cd TokiDo
 npm install
 ```
+
+Tailwind CSS
+```bash
+npm install -D tailwindcss postcss autoprefixer
+npx tailwindcss init -p
+```
+
+Library Icon
+```bash
+npm install @heroicons/react
+```
+
+React Router
+```bash
+npm install react-router-dom
+```
+
 
 3. Start development server
 ```bash
